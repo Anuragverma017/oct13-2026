@@ -1,4 +1,5 @@
-#this is my own shit nothing else or isse kuch hoga nahi isse accha app mene baya hai getaipilot ka whatsapp hai jo ki automation ke liye use hota hai . 
+#this is my own shit nothing else or isse kuch hoga nahi isse accha app mene baya hai getaipilot ka whatsapp hai jo ki automation ke liye use hota hai .
+#this is for nothing own shit of whatsapp
 
 <p align="center">
   <img src="docs/logo/openwa_logo.webp" alt="OpenWA Logo" width="200"/>
